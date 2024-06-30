@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\admin-side",
+    "\\src\\app\\admin-side\\missionskill",
+    "\\src\\app\\admin-side\\missionskill\\add-mission-skill",
+    "\\src\\app\\admin-side\\missiontheme"
+  ],
+  "SelectedNode": "\\src\\app\\admin-side\\missionskill\\add-mission-skill\\add-mission-skill.component.html",
+  "PreviewInSolutionExplorer": false
+}
